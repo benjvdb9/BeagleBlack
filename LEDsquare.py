@@ -3,7 +3,7 @@ from initLED import initGPIOpins, inputUpperON
 from initLED import inputLowerON, outputUpperOFF, outputLowerOFF
 import time
 
-//initialize leds
+#initialize leds
 initGPIOpins()
 inputUpperOFF()
 inputLowerOFF()

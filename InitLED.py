@@ -1,6 +1,6 @@
 import Adafruit_BBIO.GPIO as GPIO
 
-//initialize pins
+#initialize pins
 
 def initGPIOpins():
 	GPIO.setup("P8_12", GPIO.OUT)
