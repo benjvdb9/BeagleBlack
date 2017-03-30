@@ -10,7 +10,7 @@ def getpin(P):
 		pin = dict[P]
 	except:
 		pin = P
-	
+	#RRR
 	return pin
 	
 def pinconf(P, dir):
