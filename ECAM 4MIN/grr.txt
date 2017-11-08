@@ -1,0 +1,10 @@
+1 conneteur-palais , controlleur , aimants
+
+2 hacheur , la tension , rapport cyclique
+
+3 100V (On a i=5A et on perd donc 5V dans la resistance et 5V dans le moteur
+	, il reste donc 100V pour le moteur)
+
+4 Son réglage de vitesse (et énorme couple au démarage)
+
+5 ???
