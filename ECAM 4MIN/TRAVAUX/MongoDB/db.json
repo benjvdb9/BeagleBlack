@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Trafalgar",
+        "type": "save",
+        "player level": 137,
+        "insight": 99,
+        "location": "Hunter's Dream",
+        "playtime": "P1DT21H44M27S",
+        "stats": {
+            "VIT": 51,
+            "END": 45,
+            "STR": 14,
+            "SKL": 50,
+            "BLT": 20,
+            "ARC": 7
+        },
+        "equipment": {
+            "right1": "Chikage",
+            "right2": "Blade of Marcy",
+            "left1": "Evelyn",
+            "left2": "Hunter's Torch",
+            "head": "Bone Ash Mask",
+            "torso": "Bone Ash Armor",
+            "arms": "Bone Ash Gauntlets",
+            "legs": "Bone Ash Leggings"
+        }
+    },
+    {
+        "name": "Metasticia",
+        "type": "save",
+        "player level": 122,
+        "insight": 65,
+        "location": "Hunter's Dream",
+        "playtime": "PT17H24S",
+        "stats": {
+            "VIT": 50,
+            "END": 39,
+            "STR": 11,
+            "SKL": 35,
+            "BLT": 30,
+            "ARC": 7
+        },
+        "equipment": {
+            "right1": "Reiterpallasch",
+            "right2": "Burial Blade",
+            "left1": "Evelyn",
+            "left2": "Hunter's Torch",
+            "head": "Henryk's Hunter Cap",
+            "torso": "Henryk's Hunter Garb",
+            "arms": "Henryk's Hunter Gloves",
+            "legs": "Henryk's Hunter Trousers"
+        }
+    },
+    {
+        "name": "Charlie Sun",
+        "type": "save",
+        "player level": 146,
+        "insight": 94,
+        "location": "Hunter's Dream",
+        "playtime": "P1DT15H35M27S",
+        "stats": {
+            "VIT": 50,
+            "END": 30,
+            "STR": 20,
+            "SKL": 50,
+            "BLT": 16,
+            "ARC": 30
+        },
+        "equipment": {
+            "right1": "Burial Blade",
+            "right2": "Rakuyo",
+            "left1": "Hunter Pistol",
+            "left2": "Repeating Pistol",
+            "head": "Old Hunter Cap",
+            "torso": "Gehrman's Hunter Garb",
+            "arms": "Knight's Gloves",
+            "legs": "Gascoigne's Trousers"
+        }
+    },
+    {
+        "type": "config",
+        "luminosity": 5,
+        "window_size": [
+            800,
+            600
+        ]
+    }
+]
